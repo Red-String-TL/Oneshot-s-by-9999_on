@@ -1,0 +1,33 @@
+{
+  "title": "Collecton of On's Oneshots",
+  "description": "Translated with permission. A collection of oneshot manga from 9999_on",
+  "artist": "@9999_on",
+  "author": "@9999_on",
+  "cover": "https://pbs.twimg.com/profile_images/1398532248652054528/y945CoGt_400x400.jpg",
+  "chapters": {
+    "1": {
+      "title": "I'll Become a Mermaid Soon",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/MHPz6iv/"
+      },
+      "last_updated": "1623039137"
+    },
+     "2": {
+      "title": "Universe Egg",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/adU4WmV/"
+      },
+      "last_updated": "1624334597"
+    },
+     "3": {
+      "title": "How God Wastes Time",
+      "volume": "1",
+      "groups": {
+        "Red String": "/proxy/api/imgur/chapter/NQ4AleU/"
+      },
+      "last_updated": "1625143845"
+    }
+  }
+}
